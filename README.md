@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Keredu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keredu&show_icons=true&theme=radical)]
+[![Keredu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keredu&show_icons=true&theme=dark)]
 <!--
 **Keredu/Keredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
