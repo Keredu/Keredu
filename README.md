@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Keredu's GitHub stats](https://github-readme-stats-rho-wheat-19.vercel.app/api?username=Keredu&show_icons=true&theme=radical)](https://github.com/Keredu/github-readme-stats)
+[![Keredu's GitHub stats](https://github-readme-stats-rho-wheat-19.vercel.app/api?username=Keredu&show_icons=true&theme=dark)](https://github.com/Keredu/github-readme-stats)
 <!--
 **Keredu/Keredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
