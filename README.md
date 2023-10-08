@@ -1,15 +1,14 @@
 # Hello there 👋, I'm Luis Cortés Ferre!
 
-I am an Artificial Intelligence Engineer passionate about pushing the boundaries of AI. With a solid background in computer engineering and artificial intelligence, I love diving into complex problems and emerging with clear, elegant solutions.
+I am an AI Engineer with a solid background in computer engineering and maths passionate about diving into complex problems abd pushing the boundaries of AI.
 
-![Profile views](https://gpvc.arturio.dev/Keredu) ![GitHub followers](https://img.shields.io/github/followers/Keredu?style=social)
 
 ## 🚀 About Me
 
 - 🎓 Master’s Degree in Artificial Intelligence from the University of Seville
 - 🎓 PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
 - 🌱 Currently working on Deep Learning applied to Intracranial Hemorrhage Detection
-- 🏢 Senior Artificial Intelligence Consultant at VASS - BBVA, working on graph analysis of Dataproc (GCP) processes with Neo4j to detect anomalies among other projects.
+- 🏢 Senior Artificial Intelligence Consultant at VASS - BBVA
 - 🎯 2023 Goals: Contribute to open-source projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
@@ -32,7 +31,7 @@ I am an Artificial Intelligence Engineer passionate about pushing the boundaries
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/keredu)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [Twitter](https://twitter.com/keredu8)
 
 <!-- ## 🤝 Contributing -->
 
