@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Luis Cortés Ferre!
+# Hello there 👋, I'm Luis!
 
 I am an AI Engineer with a solid background in computer engineering and maths passionate about diving into complex problems abd pushing the boundaries of AI.
 
