@@ -16,7 +16,7 @@ I am an AI Engineer with a solid background in computer engineering and maths pa
 
 - **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, C/C++
 - **Frameworks & Libs:** TensorFlow, PyTorch / PyTorch Lightning, FastAPI, Pandas, Polars, XGBoost
-- **AWS Services:** Textract, Sagemaker, Kendra, Lambdas, EC2, S3
+- **AWS Services:** Textract, Sagemaker, Kendra, Lambda, EC2, S3
 - **GCP Services:** BigQuery, Dataflow, Dataproc, Documental AI, Vertex AI, Cloud Storage
 - **Tools:** Git, Docker, Kubernetes, Grafana, Prometheus, GoCD, Neo4J
 
