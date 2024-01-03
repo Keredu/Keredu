@@ -5,11 +5,11 @@ I am an AI Engineer with a solid background in computer engineering and maths, p
 
 ## 🚀 About Me
 
-- 🎓 Master’s Degree in Artificial Intelligence from the University of Seville
+<!-- - 🎓 Master’s Degree in Artificial Intelligence from the University of Seville -->
 - 🎓 PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
 - 🌱 Currently working on Deep Learning applied to Intracranial Hemorrhage Detection
 - 🏢 Senior Artificial Intelligence Consultant at VASS - BBVA
-- 🎯 2023 Goals: Contribute to open-source projects and expand my network
+- 🎯 2024 Goals: Contribute to open-source projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
 ## 🛠️ Technologies & Tools
