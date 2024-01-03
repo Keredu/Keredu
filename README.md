@@ -21,7 +21,7 @@ I am an AI Engineer with a solid background in computer engineering and maths, p
 - **GCP Services:** BigQuery, Dataflow, Dataproc, Documental AI, Vertex AI, Cloud Storage
 - **Tools:** Git, Docker, Kubernetes, Grafana, Prometheus, GoCD
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Keredu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Keredu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard) -->
 
 <!-- ## 📖 What I am currently learning or working on -->
 
