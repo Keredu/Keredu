@@ -7,8 +7,8 @@ I am an AI Engineer with a solid background in computer engineering and maths, p
 
 <!-- - 🎓 Master’s Degree in Artificial Intelligence from the University of Seville -->
 - 🎓 PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
-- 🌱 Currently working on Deep Learning applied to Intracranial Hemorrhage Detection
-- 🏢 Senior Artificial Intelligence Consultant at VASS - BBVA
+- 🌱 Currently working on Generative AI
+- 🏢 Senior Artificial Intelligence Consultant at InnoIT - Moody's
 - 🎯 2024 Goals: Contribute to open-source projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
