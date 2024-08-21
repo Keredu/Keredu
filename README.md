@@ -15,11 +15,12 @@ I am an AI Engineer with a solid background in computer engineering and maths, p
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, C/C++
-- **Frameworks & Libs:** TensorFlow, PyTorch / PyTorch Lightning, LangChain, FastAPI, Flask, Pandas, Polars, XGBoost
+- **Frameworks & Libs:** TensorFlow, PyTorch, Pandas, Polars, XGBoost, FastAPI, Flask, React
+- **Large Language Model (LLM):** LangChain, DSPy, LangSmith, LLM-as-a-Judge
 - **Databases:** PostgreSQL, SQLite, Neo4J, MongoDB, Prometheus
 - **AWS:** Bedrock, Textract, Sagemaker, Kendra, Lambda, EC2, S3
 - **GCP:** Vertex AI, BigQuery, Dataflow, Dataproc, Documental AI, Cloud Storage
-- **Other:** LangSmith, Git, Docker, Kubernetes, LangSmith, Grafana, GoCD
+- **Other:** Git, Docker, Kubernetes, Grafana, GoCD
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Keredu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard) -->
 
