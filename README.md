@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Luis!
 
-I am an Generative AI Engineer with a solid background in computer engineering and maths, passionate about diving into complex problems and pushing the boundaries of AI.
+I am a Generative AI Engineer with a solid background in computer engineering and maths, passionate about diving into complex problems and pushing the boundaries of AI.
 
 
 ## 🚀 About Me
