@@ -12,6 +12,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 - 🎯 2024 Goals: Contribute to open-source projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
+
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, C/C++
