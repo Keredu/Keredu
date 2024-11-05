@@ -15,7 +15,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, C/C++
+- **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, Go
 - **Frameworks & Libs:** TensorFlow, PyTorch, Pandas, XGBoost, FastAPI, Flask, React
 - **Large Language Model (LLM):** LangChain, DSPy, LangSmith, LLM-as-a-Judge
 - **Databases:** PostgreSQL, SQLite, Neo4J, MongoDB, Prometheus
