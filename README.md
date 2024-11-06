@@ -21,7 +21,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 - **Databases:** PostgreSQL, SQLite, Neo4J, MongoDB, Prometheus
 - **AWS:** Bedrock, Textract, Sagemaker, Kendra, Lambda, EC2, S3
 - **GCP:** Vertex AI, BigQuery, Dataflow, Dataproc, Documental AI, Cloud Storage
-- **Other:** Git, Docker, Kubernetes, Grafana, GoCD
+- **Other:** Git, Docker, Kubernetes, Grafana, GoCD, RabbitMQ
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Keredu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard) -->
 
