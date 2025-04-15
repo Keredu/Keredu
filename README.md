@@ -7,7 +7,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 
 <!-- - 🎓 Master’s Degree in Artificial Intelligence from the University of Seville -->
 - 🎓 PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
-- 🌱 Currently working on Generative AI
+- 🌱 Currently working on Generative AI (GenAI)
 - 🏢 Senior Artificial Intelligence Engineer at InnoIT - Moody's
 - 🎯 2025 Goals: Contribute to open-source projects, work on GenAI projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
