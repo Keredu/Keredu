@@ -34,7 +34,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/keredu)
-- [Twitter](https://twitter.com/keredu8)
+<!-- - [Twitter](https://twitter.com/keredu8) -->
 
 <!-- ## 🤝 Contributing -->
 
