@@ -9,7 +9,7 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 - 🎓 PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
 - 🌱 Currently working on Generative AI (GenAI)
 - 🏢 Lead Artificial Intelligence Engineer at Cori Clinical
-- 🎯 2025 Goals: Contribute to open-source projects, work on GenAI projects and expand my network
+- 🎯 2026 Goals: Contribute to open-source projects, work on local SLM projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
 
