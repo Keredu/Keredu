@@ -4,10 +4,11 @@ Lead AI Engineer building production LLM systems, RAG pipelines, and multi-agent
 
 ## About Me
 
-- Lead AI Engineer at **Cori Clinical** (London) - Production LLM & document automation
-- **PhD Candidate** in AI at University of Seville
-- Previously: **Moody's**, **BBVA** | Speaker at **RSA Conference 2022**
-- Published in **MDPI Journal of Imaging** (Q2)
+<!-- - 🎓 Master’s Degree in Artificial Intelligence from the University of Seville -->
+- PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville 
+- Founder & Lead AI Engineer at Cori Clinical
+- 2026 Goals: Contribute to open-source projects, work on local SLM projects and expand my network
+<!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
 ## Tech Stack
 
@@ -22,7 +23,7 @@ Lead AI Engineer building production LLM systems, RAG pipelines, and multi-agent
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-F97316?style=flat)
 ![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-purple?style=flat)
 
@@ -62,7 +63,7 @@ Lead AI Engineer building production LLM systems, RAG pipelines, and multi-agent
 ### Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ## Publications
 
@@ -70,7 +71,7 @@ Lead AI Engineer building production LLM systems, RAG pipelines, and multi-agent
 
 ## Open Source
 
-- Contributing to [FINOS Multi-Agent System](https://github.com/finos/community/issues/343) (Moody's)
+- Contributed to [FINOS Multi-Agent System](https://github.com/finos/community/issues/343) (Moody's)
 
 ## Connect
 
