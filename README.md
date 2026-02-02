@@ -15,13 +15,13 @@ I am a Generative AI Engineer with a solid background in computer engineering an
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, Bash, SQL, JavaScript, Rust, Go
-- **Frameworks & Libs:** TensorFlow, PyTorch, Pandas, XGBoost, FastAPI, Flask, React
-- **Large Language Model (LLM):** LangChain, DSPy, LangSmith, LLM-as-a-Judge
-- **Databases:** PostgreSQL, SQLite, Neo4J, MongoDB, Prometheus
+- **Programming Languages:** Python, Bash, SQL, TypeScript, Go
+- **Frameworks & Libs:** TensorFlow, PyTorch, Pandas, XGBoost, FastAPI, React, React Router, shadcn/ui
+- **Large Language Model (LLM):** LangChain, LangGraph, LangSmith, Langfuse, LlamaCloud, DSPy, LLM-as-a-Judge
+- **Databases:** PostgreSQL, Qdrant, SQLite, Neo4J, Redis, immudb, Prometheus, SQLAlchemy, Alembic
 - **AWS:** Bedrock, Textract, Sagemaker, Kendra, Lambda, EC2, S3
-- **GCP:** Vertex AI, BigQuery, Dataflow, Dataproc, Documental AI, Cloud Storage
-- **Other:** Git, Docker, Kubernetes, Grafana, GoCD, RabbitMQ
+- **GCP:** Vertex AI, Document AI, BigQuery, Cloud SQL, Memorystore, Cloud Storage
+- **Other:** Git, GitHub, Docker, Kubernetes, MLflow, Grafana, GoCD
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Keredu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard) -->
 
