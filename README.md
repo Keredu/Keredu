@@ -1,14 +1,13 @@
 # Hello there, I'm Luis!
 
-Generative AI Engineer building production LLM systems, RAG pipelines, and multi-agent architectures.
+Machine Learning Engineer with 7+ years in AI and 10+ years in software engineering. Building production LLM systems for clients like Moody's and BBVA. Passionate about open source, deep learning research, and MLOps
 
-## About Me
+## 2026 Goals
 
-<!-- - 🎓 Master's Degree in Artificial Intelligence from the University of Seville -->
-- PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville
-- Founder Engineer & Lead AI Engineer at Cori Clinical
-- 2026 Goals: Contribute to open-source projects, work on local SLM projects and expand my network
-<!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
+- Publish my second PhD article on CT slice interpolation for intracranial imaging
+- Lead Cori Clinical's backend and AI infrastructure
+- Contribute to open source projects more actively
+- Experiment with training SLMs for on-device inference
 
 ## Tech Stack
 
@@ -41,6 +40,7 @@ Generative AI Engineer building production LLM systems, RAG pipelines, and multi
 ## Open Source
 
 - Contributed to [FINOS Multi-Agent System](https://github.com/finos/community/issues/343) (Moody's)
+- [Detanfrules](https://github.com/Keredu/Detanfrules) - Detection of anomalies in firewall rules (2016)
 
 ## Let's Connect
 
