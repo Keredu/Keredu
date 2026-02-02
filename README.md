@@ -6,7 +6,7 @@ Generative AI Engineer building production LLM systems, RAG pipelines, and multi
 
 <!-- - 🎓 Master's Degree in Artificial Intelligence from the University of Seville -->
 - PhD Candidate in Computer Science - Artificial Intelligence at the University of Seville
-- Founder & Lead AI Engineer at Cori Clinical
+- Founder Engineer & Lead AI Engineer at Cori Clinical
 - 2026 Goals: Contribute to open-source projects, work on local SLM projects and expand my network
 <!-- - 💼 Any freelance/consulting inquiries? Shoot me an [email](mailto:ewfew@.com) -->
 
