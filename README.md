@@ -39,7 +39,7 @@ Machine Learning Engineer with 7+ years in AI and 10+ years in software engineer
 
 ## Open Source
 
-- Led backend and AI development of [FINOS Multi-Agent System](https://github.com/finos/community/issues/343) (2025, Moody's Analytics)
+- Led the backend and AI development of [FINOS Multi-Agent System](https://github.com/finos/community/issues/343) (2025, Moody's Analytics)
 - Fixed non-deterministic `/search` behavior in [Firecrawl](https://github.com/firecrawl/firecrawl/pull/186) (May 2024)
 - [Detanfrules](https://github.com/Keredu/Detanfrules) - Detection of anomalies in firewall rules (2016)
 
