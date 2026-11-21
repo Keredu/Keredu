@@ -1,6 +1,6 @@
 # Hello there, I'm Luis!
 
-Machine Learning Engineer with 7+ years in AI and 10+ years in software engineering. Building production LLM systems for clients like Moody's and BBVA. Passionate about open source, deep learning research, and MLOps
+Machine Learning Engineer with 7+ years in AI and 10+ years in software engineering. Building production LLM systems for companies like Moody's, BBVA and Cori Clinical. Passionate about open source, deep learning research, and MLOps
 
 <!-- ## 2026 Goals
 
