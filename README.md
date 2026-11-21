@@ -2,12 +2,12 @@
 
 Machine Learning Engineer with 7+ years in AI and 10+ years in software engineering. Building production LLM systems for clients like Moody's and BBVA. Passionate about open source, deep learning research, and MLOps
 
-## 2026 Goals
+<!-- ## 2026 Goals
 
 - Publish my third article and finish my PhD
 - Contribute to open source projects more actively
 - Experiment with training SLMs for on-device inference
-<!-- - Lead Cori Clinical's backend and AI infrastructure -->
+- Lead Cori Clinical's backend and AI infrastructure -->
 ## Tech Stack
 
 ![Languages](https://img.shields.io/badge/Languages-555?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
