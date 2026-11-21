@@ -4,8 +4,8 @@ Machine Learning Engineer with 7+ years in AI and 10+ years in software engineer
 
 ## 2026 Goals
 
-- Publish my second PhD article on CT slice interpolation for intracranial imaging
-- Lead Cori Clinical's backend and AI infrastructure
+- Publish my third article and finish my PhD
+<!-- - Lead Cori Clinical's backend and AI infrastructure -->
 - Contribute to open source projects more actively
 - Experiment with training SLMs for on-device inference
 
